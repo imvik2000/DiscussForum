@@ -1,6 +1,6 @@
 # mern-stack-blog-app
-complete mern stack blog application source code 2023
+complete mern stack blog application 
 
-# please check branches more code coming soon !
-Dont forgot follow on github as well 
-##  thanks for watching techinfoyt
+
+
+!Preview of the web apps (https://github.com/imvik2000/DiscussForum/assets/71227014/b06848fd-7024-4d3d-a940-1ca8e66d4626)
